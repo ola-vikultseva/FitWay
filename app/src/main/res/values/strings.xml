@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FitWay</string>
+    <string name="welcome_text">Hello! Let\'s find out more about you :)</string>
+    <string name="next">Next</string>
+    <string name="whats_your_gender">What\'s your gender?</string>
+    <string name="whats_your_age">What\'s your age?</string>
+    <string name="whats_your_height">What\'s your height?</string>
+    <string name="whats_your_weight">What\'s your weight?</string>
+    <string name="whats_your_preferred_macro_ratio">What\'s your preferred ratio of macronutrients?</string>
+    <string name="whats_your_activity_level">What\'s your activity level?</string>
+    <string name="whats_your_weight_goal">Do you want to lose, keep or gain weight?</string>
+    <string name="years">years</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+    <string name="carbs_ratio">% carbs</string>
+    <string name="protein_ratio">% protein</string>
+    <string name="fats_ratio">% fats</string>
+    <string name="age_cant_be_empty">Age can\'t be empty</string>
+    <string name="height_cant_be_empty">Height can\'t be empty</string>
+    <string name="weight_cant_be_empty">Weight can\'t be empty</string>
+    <string name="macro_ratio_cant_be_empty">%1$s ratio can\'t be empty</string>
+    <string name="protein">Protein</string>
+    <string name="carbs">Carbs</string>
+    <string name="fats">Fats</string>
+    <string name="macro_ratio_invalid_sum">Make sure the total of protein, carbs, and fats adds up to 100%%</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="low_activity_level">Low</string>
+    <string name="medium_activity_level">Medium</string>
+    <string name="high_activity_level">High</string>
+    <string name="lose_weight_goal">Lose</string>
+    <string name="keep_weight_goal">Keep</string>
+    <string name="gain_weight_goal">Gain</string>
+</resources>
